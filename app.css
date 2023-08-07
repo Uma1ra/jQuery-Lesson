@@ -1,3 +1,12 @@
+/* slide-down(show from nothing to something) */
+/* .box1 {
+  display: none; 
+  background-color: #FF0000;
+  height: 200px;
+  width: 200px;
+} */
+
+/* slide-up(show from something to nothing) */
 .box1 {
   background-color: #FF0000;
   height: 200px;
