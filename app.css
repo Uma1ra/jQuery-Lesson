@@ -1,15 +1,15 @@
 /* slide-down(show from nothing to something) */
 /* 演習問題に使用 */
-.box1 {
+/* .box1 {
   display: none; 
   background-color: #FF0000;
   height: 200px;
   width: 200px;
-}
+} */
 
 /* slide-up(show from something to nothing) */
-/* .box1 {
+.box1 {
   background-color: #FF0000;
   height: 200px;
   width: 200px;
-} */
+}
